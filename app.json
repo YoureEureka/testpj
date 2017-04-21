@@ -1,0 +1,17 @@
+{
+  "name": "testpj",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/dotnet-buildpack.git"
+    }
+  ]
+}
